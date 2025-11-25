@@ -1,2 +1,4 @@
-bot.py
-equirements.txt
+discord.py
+python-dotenv
+
+
